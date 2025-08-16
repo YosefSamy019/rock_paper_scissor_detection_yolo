@@ -1,0 +1,10 @@
+train: rock-paper-scissors-12/train/images
+val: rock-paper-scissors-12/valid/images
+test: rock-paper-scissors-12/test/images
+
+nc: 3
+
+names:
+  - Paper
+  - Rock
+  - Scissor
