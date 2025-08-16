@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 (Rock Paper Scissor)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.10 virtualenv at D:\Machine Learning\Projects\object detection\rock_paper_scissor_detection_yolo\.venv" project-jdk-type="Python SDK" />
 </project>
