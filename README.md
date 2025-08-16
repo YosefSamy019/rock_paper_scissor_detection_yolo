@@ -54,10 +54,10 @@
 
 This section focuses only on **visual results**:
 
-* ![](runs/detect/predict/egohands-public-1620849871605_png_jpg.rf.566b1b47cbd3b1558121ca2e797f5ff7.jpg)
-* ![](runs/detect/predict/Photo-on-2-16-22-at-10-20-AM-16_jpg.rf.77e43b8cc06d204239d719afc63ae511.jpg)
-* ![](runs/detect/predict/IMG_7077_MOV-82_jpg.rf.ecaa5de681a7d56dcbea4a17f49caac8.jpg)
-* ![](runs/detect/predict/IMG_5567_mp4-16_jpg.rf.d32a3cb377e3bc260a0a841e47831a4a.jpg)
+![](runs/detect/predict/egohands-public-1620849871605_png_jpg.rf.566b1b47cbd3b1558121ca2e797f5ff7.jpg)
+![](runs/detect/predict/Photo-on-2-16-22-at-10-20-AM-16_jpg.rf.77e43b8cc06d204239d719afc63ae511.jpg)
+![](runs/detect/predict/IMG_7077_MOV-82_jpg.rf.ecaa5de681a7d56dcbea4a17f49caac8.jpg)
+![](runs/detect/predict/IMG_5567_mp4-16_jpg.rf.d32a3cb377e3bc260a0a841e47831a4a.jpg)
 
 ---
 
