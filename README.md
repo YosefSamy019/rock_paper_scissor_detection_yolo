@@ -35,6 +35,7 @@
 ## 5. Training Results Visualization
 
 * Display `results.png` (training curves).
+![](run-yolov8-training/exp1/results.png)
 * Display `confusion_matrix.png` (class-wise evaluation).
 * Interpret metrics briefly.
 
